@@ -8,6 +8,7 @@
 
 * [Java 核心技术](Java 核心技术/README.md)
   * [第一章 Java程序设计概述](Java 核心技术/第一章 Java程序设计概述.md)
+  * [第二章 Java程序设计环境](Java 核心技术/第二章 Java程序设计环境.md)
 
 * [Version Control with Git](Version Control with Git/README.md)
   * [Chapter 1 Introduction](Version Control with Git/Chapter 1 Introduction.md)
