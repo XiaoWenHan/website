@@ -12,3 +12,9 @@
 
 * [Version Control with Git](Version Control with Git/README.md)
   * [Chapter 1 Introduction](Version Control with Git/Chapter 1 Introduction.md)
+
+* [人月神话](人月神话/README.md)
+  * [人月神话 书摘](人月神话/人月神话 书摘.md)
+
+* [黑客与画家](黑客与画家/README.md)
+  * [黑客与画家 书摘](黑客与画家/黑客与画家 书摘.md)
